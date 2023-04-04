@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.page_404{ padding:40px 0; background:#fff; font-family: 'Trebuchet MS';}
+
+.page_404  img{ width:100%;}
+
+.gif{
+    content: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    margin: 0 auto;
+    border: 5px solid;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    animation-name: flash_border;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    margin-bottom: 16px;
+}
+ 
+ 
+ h1{
+ font-size:80px;
+ text-align: center;
+ }
+
+ h3{font-size:48px;}
+ p{font-size:24px;}
+			 
+.homeButton{			 
+	color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+    text-decoration: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 5px;
+}
+
+
+@keyframes flash_border {
+    0% {
+      border-color: red;
+    }
+    20% {
+      border-color: purple;
+    }
+    40% {
+      border-color: blue;
+    }
+    60% {
+      border-color: green;
+    }
+    80% {
+      border-color: yellow;
+    }  
+    100% {
+      border-color: red;
+    }
+  }
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}

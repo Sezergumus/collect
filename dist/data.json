@@ -1,0 +1,530 @@
+{
+  "heaven": {
+    "table": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metalik boyalı ahşap baza",
+        "en": "Metallic painted wood plinth"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "floor": {
+      "1": {
+        "tr": "Iris boyalı cam başlık",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metal taşıyıcı kol",
+        "en": "Metal lamp base"
+      },
+      "5": {
+        "tr": "Ahşap/mermer konik baza",
+        "en": "Wood/marble conical plinth"
+      },
+      "6": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "7": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "ceiling": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted pendant glass"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Ayarlanabilir çelik askı takımı",
+        "en": "Adjustable steel canopy set"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off çalışma prensibi",
+        "en": "On-off controller principle"
+      },
+      "7": {
+        "tr": "Opsiyonel DALI-Dim",
+        "en": "Optional DALI-Dim"
+      }
+    }
+  },
+  "stardust": {
+    "table": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metalik boyalı ahşap baza",
+        "en": "Metallic painted wood plinth"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "floor": {
+      "1": {
+        "tr": "Iris boyalı cam başlık",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metal taşıyıcı kol",
+        "en": "Metal lamp base"
+      },
+      "5": {
+        "tr": "Ahşap/mermer konik baza",
+        "en": "Wood/marble conical plinth"
+      },
+      "6": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "7": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "ceiling": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted pendant glass"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Ayarlanabilir çelik askı takımı",
+        "en": "Adjustable steel canopy set"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off çalışma prensibi",
+        "en": "On-off controller principle"
+      },
+      "7": {
+        "tr": "Opsiyonel DALI-Dim",
+        "en": "Optional DALI-Dim"
+      }
+    }
+  },
+  "sagrado": {
+    "table": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metalik boyalı ahşap baza",
+        "en": "Metallic painted wood plinth"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "floor": {
+      "1": {
+        "tr": "Iris boyalı cam başlık",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metal taşıyıcı kol",
+        "en": "Metal lamp base"
+      },
+      "5": {
+        "tr": "Ahşap/mermer konik baza",
+        "en": "Wood/marble conical plinth"
+      },
+      "6": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "7": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "ceiling": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted pendant glass"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Ayarlanabilir çelik askı takımı",
+        "en": "Adjustable steel canopy set"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off çalışma prensibi",
+        "en": "On-off controller principle"
+      },
+      "7": {
+        "tr": "Opsiyonel DALI-Dim",
+        "en": "Optional DALI-Dim"
+      }
+    }
+  },
+  "wisdom": {
+    "table": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metalik boyalı ahşap baza",
+        "en": "Metallic painted wood plinth"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "floor": {
+      "1": {
+        "tr": "Iris boyalı cam başlık",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metal taşıyıcı kol",
+        "en": "Metal lamp base"
+      },
+      "5": {
+        "tr": "Ahşap/mermer konik baza",
+        "en": "Wood/marble conical plinth"
+      },
+      "6": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "7": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "ceiling": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted pendant glass"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Ayarlanabilir çelik askı takımı",
+        "en": "Adjustable steel canopy set"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off çalışma prensibi",
+        "en": "On-off controller principle"
+      },
+      "7": {
+        "tr": "Opsiyonel DALI-Dim",
+        "en": "Optional DALI-Dim"
+      }
+    }
+  },
+  "pieta": {
+    "table": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metalik boyalı ahşap baza",
+        "en": "Metallic painted wood plinth"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "floor": {
+      "1": {
+        "tr": "Iris boyalı cam başlık",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metal taşıyıcı kol",
+        "en": "Metal lamp base"
+      },
+      "5": {
+        "tr": "Ahşap/mermer konik baza",
+        "en": "Wood/marble conical plinth"
+      },
+      "6": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "7": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "ceiling": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted pendant glass"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Ayarlanabilir çelik askı takımı",
+        "en": "Adjustable steel canopy set"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off çalışma prensibi",
+        "en": "On-off controller principle"
+      },
+      "7": {
+        "tr": "Opsiyonel DALI-Dim",
+        "en": "Optional DALI-Dim"
+      }
+    }
+  },
+  "horizon": {
+    "table": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metalik boyalı ahşap baza",
+        "en": "Metallic painted wood plinth"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "floor": {
+      "1": {
+        "tr": "Iris boyalı cam başlık",
+        "en": "Iris painted glass lampshade"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Metal taşıyıcı kol",
+        "en": "Metal lamp base"
+      },
+      "5": {
+        "tr": "Ahşap/mermer konik baza",
+        "en": "Wood/marble conical plinth"
+      },
+      "6": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "7": {
+        "tr": "On-off anahtarlı kablo",
+        "en": "Cord with on-off switch"
+      }
+    },
+    "ceiling": {
+      "1": {
+        "tr": "Iris boyalı cam gövde",
+        "en": "Iris painted pendant glass"
+      },
+      "2": {
+        "tr": "Pirinç bağlantı aksesuarları",
+        "en": "Brass connector accessories"
+      },
+      "3": {
+        "tr": "Bronz platin bitiş",
+        "en": "Bronze platinum finish"
+      },
+      "4": {
+        "tr": "Ayarlanabilir çelik askı takımı",
+        "en": "Adjustable steel canopy set"
+      },
+      "5": {
+        "tr": "2x4,8W 2700K LED ışık kaynağı",
+        "en": "2x4,8W 2700K LED light source"
+      },
+      "6": {
+        "tr": "On-off çalışma prensibi",
+        "en": "On-off controller principle"
+      },
+      "7": {
+        "tr": "Opsiyonel DALI-Dim",
+        "en": "Optional DALI-Dim"
+      }
+    }
+  }
+}
